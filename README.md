@@ -15,18 +15,6 @@ Aplicação web feita com React e Tailwind CSS que permite buscar, visualizar e 
 
 ---
 
-## 📸 Screenshots
-
-### 🔎 Tela inicial – Busca de filmes
-
-![Home Screenshot](https://via.placeholder.com/800x400?text=Home+MovieApp)
-
-### 📋 Detalhes do Filme
-
-![Details Screenshot](https://via.placeholder.com/800x400?text=Detalhes+do+Filme)
-
----
-
 ## 🛠️ Tecnologias
 
 - [React.js](https://reactjs.org/)
